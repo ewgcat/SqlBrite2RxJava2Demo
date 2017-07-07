@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/lishuaihua/Desktop/code/SqlBrite2RxJava2Demo/sqlbrite/src/main/assets"/><source path="/Users/lishuaihua/Desktop/code/SqlBrite2RxJava2Demo/sqlbrite/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/lishuaihua/Desktop/code/SqlBrite2RxJava2Demo/sqlbrite/src/release/assets"/></dataSet></merger>

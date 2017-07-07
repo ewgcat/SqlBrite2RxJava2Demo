@@ -1,0 +1,16 @@
+CREATE TABLE Account(
+  mOrgId INTEGER,
+  mGrade INTEGER,
+  mUserId  INTEGER,
+  mOrgName TEXT,
+  mUserName TEXT,
+  mName TEXT,
+  mTelphone TEXT,
+  mDeptId TEXT,
+  mDeptName TEXT,
+  mJobId TEXT,
+  mJobName TEXT,
+  mSex TEXT,
+  headImg TEXT
+);
+
