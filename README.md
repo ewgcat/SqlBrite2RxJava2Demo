@@ -2,6 +2,6 @@
 
 
 依赖JakeWharton的最新sqlbrite源码，rxjava2、rxandroid。本demo是为了解决使用需同时使用Rxjava2和sqlbrite，打包冲突的问题。
-感谢JakeWharton大神的辛勤耕耘，希望sqlbrite2早日发布到maven仓库，为小白学习和使用提供便利。
+感谢JakeWharton大神的辛勤耕耘，希望sqlbrite2早日发布到maven仓库。
 
 
